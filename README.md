@@ -1,2 +1,2 @@
-# Diretorio-Remoto
-Descrição inserida no repositório remoto antes do clone.
+# Diretorio-Remoto depois do clone
+Descrição inserida no repositório remoto depois do clone.
